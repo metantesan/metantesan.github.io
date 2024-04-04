@@ -1,5 +1,5 @@
 var typed = new Typed('#typing', {
-    strings: ['onichan i have a .... '],
+    strings: ['Welcome to Hikari's heaven '],
     typeSpeed: 50,
     startDelay: 500,
     showCursor: false,
